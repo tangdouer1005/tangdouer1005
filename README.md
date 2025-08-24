@@ -4,8 +4,8 @@
 - Nickname：Tangdouer
 - Hometown: Yuncheng/Heze, Shandong Province in China
 - Educational experience
-   - Undergraduate(2021.09-now): CS, Beijing University of Posts and Telecommunications
-- Persional website: tangdouer.cn
+   - Undergraduate(2021.09-now): CS, BUPT
+   - Master(2025.9-now): CS, USTC
 
 ## 📈Statistics
 
